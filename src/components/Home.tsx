@@ -29,7 +29,7 @@ const Home = () => {
           alt=""
           className="w-96 h-96 object-cover border-8 border-accent shadow-xl border-color-b"
           style={{
-            borderRadius: "30% 70% 70% 30% / 67% 62% 38% 33%",
+            borderRadius: "51% 49% 38% 62% / 63% 67% 33% 37%",
           }}
         />
       </div>
