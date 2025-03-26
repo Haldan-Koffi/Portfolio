@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+:root {
+  --main-bg-color-blue: #21214f;
+  --main-bg-color-blue-d: #101828;
+  --main-color-blue: #1447e6;
+}
+
+.bg-blue {
+  background-color: var(--main-bg-color-blue);
+}
+.bg-blue-d {
+  background-color: var(--main-bg-color-blue-d);
+}
+
+.bg-blue-c {
+  background-color: var(--main-color-blue);
+}
+
+.border-color-b {
+  color: var(--main-color-blue);
+}
+
+.text-blue-c {
+  color: var(--main-color-blue);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--main-bg-color-blue-d);
+  color: white;
+}
