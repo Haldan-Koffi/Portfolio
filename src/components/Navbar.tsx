@@ -24,7 +24,7 @@ const Navbar = () => {
           </li>
           <li>
             <a
-              href="#Experiences"
+              href="#TechnologiesExperiences"
               className="font-bold px-4 py-2 rounded-md text-white hover:bg-black/40 transition duration-300"
             >
               Technologies & Experiences

@@ -13,7 +13,7 @@ const Home = () => {
           I'am <span className="">Haldan</span>
         </h1>
         <p className="my-4 text-md text-center md:text-left">
-          A full stack web developer. <br />
+          A Full Stack Developer. <br />
           I work mainly with Symfony and Angular. <br />
           You can contact me at the address below
           <br />
