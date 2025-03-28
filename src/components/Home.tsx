@@ -14,7 +14,7 @@ const Home = () => {
         </h1>
         <p className="my-4 text-md text-center md:text-left">
           A Full Stack Developer. <br />
-          I work mainly with Symfony and Angular. <br />
+          I work mainly with Symfony. <br />
           You can contact me at the address below
           <br />
         </p>
