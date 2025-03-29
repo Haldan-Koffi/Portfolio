@@ -20,7 +20,7 @@ const projects = [
     title: "REST API moderation application",
     description:
       "The moderation platform enables Livrosphère administrators to delete comments or books. This involves secure JWT authentication and the use of a REST API.",
-    technologies: ["Angular"],
+    technologies: ["Angular", "TypeScript"],
     demoLink:
       "https://www.loom.com/share/91e64646fb424751afdc3bd0a1a09b45?sid=19f5e925-9dbc-478d-97b0-ff12094bc2ca",
     repoLink:

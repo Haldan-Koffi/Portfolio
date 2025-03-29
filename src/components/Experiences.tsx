@@ -27,7 +27,7 @@ const skills = [
   { id: 5, name: "Python", image: imgPython },
   { id: 6, name: "HTML", image: imgHTML },
   { id: 7, name: "CSS", image: imgCSS },
-  { id: 8, name: "Typscript", image: imgTypeScript },
+  { id: 8, name: "TypeScript", image: imgTypeScript },
   { id: 9, name: "JavaScript", image: imgJavaScript },
   { id: 10, name: "MySQL", image: imgMySQL },
   { id: 11, name: "MongoDB", image: imgMongoDB },
