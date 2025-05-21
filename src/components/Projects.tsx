@@ -9,7 +9,7 @@ const projects = [
     title: "Livrosphère",
     description:
       "Livrosphère is a collaborative library dedicated to reading enthusiasts. Users can share, like, comment, recommend and consult books classified by category.",
-    technologies: ["Symfony", "MySQL", "MongoDB"],
+    technologies: ["Symfony", "JavaScript", "MySQL", "MongoDB"],
     demoLink:
       "https://www.loom.com/share/94b6ec533a43430ba2bdcca49fdd9b41?sid=eed8eb38-0ab9-46db-9134-232508f22452",
     repoLink: "https://github.com/Haldan-Koffi/LivrosphereRepo",
