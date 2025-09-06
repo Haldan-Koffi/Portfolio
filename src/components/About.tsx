@@ -12,7 +12,7 @@ const aboutSections = [
   {
     id: 2,
     title: "Backend",
-    description: "Je suis un développeur brontend",
+    description: "Je suis un développeur backend",
     icon: <Braces className="text-accent scale-150" />,
   },
   {

@@ -1,4 +1,3 @@
-import { Mail } from "lucide-react";
 import img from "../assets/photo/me.png";
 
 const Home = () => {
@@ -14,13 +13,8 @@ const Home = () => {
         </h1>
         <p className="my-4 text-md text-center md:text-left">
           A Full Stack Developer. <br />
-          I work mainly with Symfony and Angular. <br />
-          You can contact me at the address below
+          You can contact me
           <br />
-        </p>
-        <p className="flex items-center gap-2 btn btn-accent md:w-fit">
-          <Mail className="w-5 h-5 border-color-b" />
-          <span className="text-blue-c">e.haldankoffi@gmail.com</span>
         </p>
       </div>
       <div className="md:ml-60">
